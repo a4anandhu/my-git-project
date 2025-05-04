@@ -1,2 +1,1 @@
-#my git project
-This is a test project for learning Git.
+#Updated git homeoerk project description
